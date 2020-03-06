@@ -38,3 +38,21 @@
 .catagories img{
     width: 100px;
 }
+.card{
+    border: none;
+   box-shadow: 5px 5px 10px lightgray; 
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+.form-control{
+    margin-top: 5px;
+    padding-top: 5px;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
